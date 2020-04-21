@@ -25,3 +25,9 @@ config.status
 Artifacts
 DemoApp/Config.xcconfig
 
+
+TwitterCore/iphoneos/
+TwitterCore/iphonesimulator/
+TwitterKit.zip
+TwitterKit/iphoneos/
+TwitterKit/iphonesimulator/
